@@ -70,7 +70,7 @@ Aplikasi ini dibangun dengan menggunakan:
 
 - Visual Basic 6.0
 - Cristal Report 8 or later
-- Windows XP Or later
+- Windows XP or later
 
 ## Installation
 
