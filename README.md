@@ -1,4 +1,4 @@
-#PenggajianKaryawan
+# Penggajian Karyawan
 ![Payroll](https://github.com/novri3h/VB-PenggajianKaryawan/assets/25641359/6b6f7891-d4e1-4a28-aa5b-53cd8aa56cf6)
 
 <div align="justify">Aplikasi penggajian karyawan adalah perangkat lunak yang digunakan oleh perusahaan untuk mengelola dan mengotomatisasi proses penggajian karyawan. Aplikasi ini membantu perusahaan dalam menghitung dan mengelola pembayaran gaji karyawan berdasarkan informasi seperti jam kerja, gaji pokok, potongan, insentif, dan lain-lain.</div>
