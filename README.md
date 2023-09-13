@@ -6,7 +6,7 @@
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/aplikasi-enkripsi-data-AES-128/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-PenggajianKaryawan/graphs/commit-activity)
 
 ## Features Aplikasi Payroll
 [Menu File]
@@ -45,9 +45,6 @@
   mempengaruhi gaji dan kompensasi karyawan.</div>
 - Slip Gaji
   <div align="justify">Dokumen yang berisi rincian tentang pendapatan dan potongan gaji seorang karyawan selama periode pembayaran tertentu, biasanya satu bulan.</div>
-<br>
-Untuk Login Ke aplikasi Username dan password ---> admin
-<br>
 
 ## Tech
 
@@ -80,6 +77,9 @@ Aplikasi ini dibangun dengan menggunakan:
 Install Visual Basic 6 dan Cristal Report.
 
 <div align="justify">Jalankan PENGGAJIAN.vbp untuk merubah Code atau klik 2x Program Penggajian.exe langsung menjalankan aplikasinya.</div>
+<br>
+Untuk Login Ke aplikasi Username dan password ---> admin
+<br>
 
 ## License
 
