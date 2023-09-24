@@ -4,7 +4,7 @@
 <div align="justify">Aplikasi penggajian karyawan adalah perangkat lunak yang digunakan oleh perusahaan untuk mengelola dan mengotomatisasi proses penggajian karyawan. Aplikasi ini membantu perusahaan dalam menghitung dan mengelola pembayaran gaji karyawan berdasarkan informasi seperti jam kerja, gaji pokok, potongan, insentif, dan lain-lain.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-PenggajianKaryawan/graphs/commit-activity)
 
